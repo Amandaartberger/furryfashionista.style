@@ -1,0 +1,424 @@
+
+  body {
+  position:relative;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/Untitled_Artwork%20141.png?v=1676564220193");
+  background-size: 100%;
+  background-color: blue;
+  background-repeat: no-repeat;
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='38' height='46' viewport='0 0 100 100' style='fill:black;font-size:23px;'><text y='50%'>🦴</text></svg>") 16 0,auto; /*!emojicursor.app*/
+  
+
+}
+
+
+#bow {
+  height: 10vw;
+  width: 10vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/rosett.png?v=1676464489275");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  left: 45vw;
+  top: 3vw;
+  /*animation-name: fadeout;
+  animation-duration: 40s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#greenbow {
+  height: 10vw;
+  width: 10vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/greenbow.png?v=1676554949120");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  left: 25vw;
+  top: 12vw;
+  /*animation-name: fadeout;
+  animation-duration: 40s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#yellowbow {
+  height: 10vw;
+  width: 10vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/yellowbow.png?v=1676554952716");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  left: 80vw;
+  top: 55vw;
+  /*animation-name: fadeout;
+  animation-duration: 40s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#bluegreenshirt {
+  height: 15vw;
+  width: 15vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gro%CC%88nbla%CC%8Atro%CC%88ja.png?v=1676464797941");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 72vw;
+  left: 74vw;
+  /*animation-name: fadein;
+  animation-duration: 60s;
+  animation-fill-mode: forwards;*/
+
+  
+}
+
+#blackskirt {
+  height: 15vw;
+  width: 15vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/svartkjol.png?v=1676488033866");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 32vw;
+  left: 1vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#blackjumpsuit {
+  height: 19vw;
+  width: 17vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/svartjumpsuit.png?v=1676488233591");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 5vw;
+  left: 57vw;
+  /*animation-name: fadeout;
+  animation-duration: 20s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#strumpbyxor {
+  height: 19vw;
+  width: 19vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/strumpbyxor.png?v=1676488357456");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 27vw;
+  left: 17vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#silverskirt {
+  height: 15vw;
+  width: 15vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/silverkjol.png?v=1676488510370");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 75vw;
+  left: 8vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#redtanktop {
+  height: 12vw;
+  width: 12vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/ro%CC%88ttlinne.png?v=1676488633034");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 42vw;
+  left: 15vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#pinkskirt {
+  height: 15vw;
+  width: 15vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/rosakjol.png?v=1676488714885");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 13vw;
+  left: 67vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#pinkshirtheart {
+  height: 22vw;
+  width: 22vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/rosahja%CC%88rttro%CC%88ja.png?v=1676488783911");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 37vw;
+  left: 60vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#pinkbroch {
+  height: 4vw;
+  width: 3vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/rosabroch.png?v=1676488881885");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 50vw;
+  left: 47vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#cloudboots {
+  height: 9vw;
+  width: 9vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/molnskor.png?v=1676488957199");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 55vw;
+  left: 35vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#cloudshirt {
+  height: 20vw;
+  width: 20vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/molnet.png?v=1676489029264");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 27vw;
+  left: 72vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#purpleshoe {
+  height: 12vw;
+  width: 12vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/lilaskor.png?v=1676489094324");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 10vw;
+  left: 5vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#orangeshoe {
+  height: 7vw;
+  width: 7vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/lavasko.png?v=1676489169353");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 60vw;
+  left: 57vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#yellowshirt {
+  height: 14vw;
+  width: 14vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gultlinne.png?v=1676489241305");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 55vw;
+  left: 15vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#greentanktop {
+  height: 12vw;
+  width: 12vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gro%CC%88ntlinne.png?v=1676489313414");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 20vw;
+  left: 85vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#greenboot {
+  height: 10vw;
+  width: 10vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gro%CC%88nlilaskor.png?v=1676489382464");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 70vw;
+  left: 47vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#greenjumpsuit {
+  height: 19vw;
+  width: 17vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gro%CC%88njumpsuit.png?v=1676489473444");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 74vw;
+  left: 29vw;
+ /* animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#blueshirtcloud {
+  height: 22vw;
+  width: 22vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/bla%CC%8Amolntro%CC%88ja.png?v=1676489539409");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 78vw;
+  left: 55vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#bluebroch {
+  height: 4vw;
+  width: 3vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/bla%CC%8Abroch.png?v=1676489650784");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 3vw;
+  left: 35vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#greenhead {
+  height: 8vw;
+  width: 11vw;
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/blomsterkrans.png?v=1676489712153");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  top: 2vw;
+  left: 80vw;
+  /*animation-name: fadeout;
+  animation-duration: 30s;
+  animation-fill-mode: forwards;*/
+  
+}
+
+#target {
+  height: 50vw;
+  width: 50vw;
+  background-image: url("https://cdn.glitch.global/310b97a4-64aa-45ea-9384-ff39da7d2db8/Untitled_Artwork%2010.gif?v=1676298229312");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  left: 17vw;
+  top: 13vw;
+}
+
+/*#textfadeout {
+  background-image: url("https://cdn.glitch.global/310b97a4-64aa-45ea-9384-ff39da7d2db8/test-text-pawsome.png?v=1676373657922");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 50vw;
+  width: 50vw;
+  position: absolute;
+  top: 5vw;
+  left: 10vw;
+  animation-name: textfadeout;
+  animation-duration: 15s;
+  animation-fill-mode: forwards;
+}*/
+
+.drag,
+#target {
+  position:absolute;
+}
+
+@keyframes fadeout {
+  0% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes fadein {
+  0%,100% { opacity: 0 }
+  40% { opacity: 0 }
+  50% { opacity: 1 }
+  90% { opacity: 1 }
+  }
+
+@keyframes textfadeout {
+  0% {
+    opacity: 1;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+
+
+
+
