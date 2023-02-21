@@ -5,7 +5,7 @@
   background-size: 100%;
   background-color: blue;
   background-repeat: no-repeat;
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='38' height='46' viewport='0 0 100 100' style='fill:black;font-size:23px;'><text y='50%'>🦴</text></svg>") 16 0,auto; /*!emojicursor.app*/
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='55' height='66' viewport='0 0 100 100' style='fill:black;font-size:33px;'><text y='50%'>🦴</text></svg>") 16 0,auto; /*!emojicursor.app*/
   
 
 }
@@ -75,7 +75,7 @@
 #blackskirt {
   height: 15vw;
   width: 15vw;
-  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/svartkjol.png?v=1676488033866");
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/svartkjol.png?v=1676974307131");
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -150,7 +150,7 @@
 #pinkskirt {
   height: 15vw;
   width: 15vw;
-  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/rosakjol.png?v=1676488714885");
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/rosakjol.png?v=1676974325403");
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -270,7 +270,7 @@
 #greentanktop {
   height: 12vw;
   width: 12vw;
-  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gro%CC%88ntlinne.png?v=1676489313414");
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gulblomma.png?v=1676974980674");
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -315,11 +315,11 @@
 #blueshirtcloud {
   height: 22vw;
   width: 22vw;
-  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/bla%CC%8Amolntro%CC%88ja.png?v=1676489539409");
+  background-image: url("https://cdn.glitch.global/f84ebb2b-244d-4fed-8bb3-170f6f6ad81f/gra%CC%8A.png?v=1676975930734");
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
-  top: 78vw;
+  top: 77vw;
   left: 55vw;
   /*animation-name: fadeout;
   animation-duration: 30s;
@@ -366,6 +366,44 @@
   background-repeat: no-repeat;
   left: 17vw;
   top: 13vw;
+}
+
+#webring {
+  font-size: 15px;
+  position: absolute;
+  top: 100vw;
+  left: 23vw;
+  color: lime; 
+}
+
+a { color: white; }
+
+.arrow{
+  font-size: 20px;
+  
+}
+
+.warning{
+        z-index: 9;
+        position: fixed;
+        margin: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: blue;
+        visibility:hidden;
+        font-size: 1rem;
+        color: lime;
+
+      }
+
+      @media (max-width: 600px) {
+  .warning {
+        visibility: visible;
+  }
 }
 
 /*#textfadeout {
