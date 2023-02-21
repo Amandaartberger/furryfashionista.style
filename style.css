@@ -383,29 +383,6 @@ a { color: white; }
   
 }
 
-.warning{
-        z-index: 9;
-        position: fixed;
-        margin: 0;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        width: 100vw;
-        height: 100vh;
-        background-color: blue;
-        visibility:hidden;
-        font-size: 1rem;
-        color: lime;
-
-      }
-
-      @media (max-width: 600px) {
-  .warning {
-        visibility: visible;
-  }
-}
-
 /*#textfadeout {
   background-image: url("https://cdn.glitch.global/310b97a4-64aa-45ea-9384-ff39da7d2db8/test-text-pawsome.png?v=1676373657922");
   background-size: 100%;

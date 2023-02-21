@@ -5,7 +5,30 @@
     <script src="js/dragElement.js" defer></script>
     <!--<script src="js/script.js" defer></script>-->
     
-    
+    <style>
+    .warning{
+        z-index: 9;
+        position: fixed;
+        margin: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: blue;
+        visibility:hidden;
+        font-size: 1rem;
+        color: lime;
+
+      }
+
+      @media (max-width: 600px) {
+  .warning {
+        visibility: visible;
+  }
+}
+    </style>
   </head>
   <body>
 <div class="warning">Visit FurryFashionista.style on a computer instead! =^_^= </div>
